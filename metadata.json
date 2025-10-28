@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Editor & Watermarker",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model and apply custom watermarks.",
+  "requestFramePermissions": []
+}
